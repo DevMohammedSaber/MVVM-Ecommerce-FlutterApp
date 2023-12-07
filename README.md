@@ -24,9 +24,9 @@ I developed a fully functioning e-commerce flutter application that is compatibl
 | Onboard_Screen 1 | Onboard_Screen 2 | Onboard_Screen 3 |
 | :---: | :---: | :---:|
 | ![Onboard 1](https://github.com/mohamedsber/MVVM-Ecommerce-FlutterApp/assets/100823196/2314f81a-f0f8-4b1d-81ea-3dea441ee585) | ![Onboard 2](https://github.com/mohamedsber/MVVM-Ecommerce-FlutterApp/assets/100823196/6afd1bb0-3f15-4b5a-879a-b1e3b967783a) | ![Onboard 3](https://github.com/mohamedsber/MVVM-Ecommerce-FlutterApp/assets/100823196/c2700c65-fd90-4115-9c58-5bf3b29d8303) |
-| SignIn_Screen | SignUp_Screen | Profile_Screen |
-| ![Sign-in]() | ![Sign-up]() | ![Profile]() |
-| Cart_Screen | CheckOut_Screen | Orders_Screen |
-| ![Cart](https://user-images.githubusercontent.com/32794378/141523345-286e79b0-43a8-4555-a371-d4eb1b4b0a6a.png) | ![Checkout](https://user-images.githubusercontent.com/32794378/141523381-f9ebb661-1b55-42f6-a91e-b5bcc4fec540.png) | ![Orders](https://user-images.githubusercontent.com/32794378/141523430-a086dd42-040e-4908-ba62-e7499a194471.png) |
+| SignIn_Screen | SignUp_Screen | Fofget_password_Screen |
+| ![Sign-in](https://github.com/mohamedsber/MVVM-Ecommerce-FlutterApp/assets/100823196/ff4b4781-72c2-4757-bb33-97c0a274485f) | ![Sign-up](https://github.com/mohamedsber/MVVM-Ecommerce-FlutterApp/assets/100823196/cdb3fc6a-291a-423f-adcb-b8a3f9b8221d) | ![Fofget_password](https://github.com/mohamedsber/MVVM-Ecommerce-FlutterApp/assets/100823196/8f595571-8f75-47f5-993d-608e91909107) |
+| Home_Screen | Favourite_Screen | Cart_Screen |
+| ![Home](https://github.com/mohamedsber/MVVM-Ecommerce-FlutterApp/assets/100823196/53d3f110-3b23-4aa6-974b-f692fb2e66b6) | ![Favourite](https://github.com/mohamedsber/MVVM-Ecommerce-FlutterApp/assets/100823196/c9d7e676-8eca-4e06-8ddc-b03360ff906d) | ![Cart](https://github.com/mohamedsber/MVVM-Ecommerce-FlutterApp/assets/100823196/fea2e4d3-726c-4853-a44f-c99cbdf5a935) |
 
 
