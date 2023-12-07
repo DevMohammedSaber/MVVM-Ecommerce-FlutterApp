@@ -20,9 +20,8 @@ samples, guidance on mobile development, and a full API reference.
 ![Samsung Galaxy S20 Screenshot 2](https://github.com/mohamedsber/e_commerce_app_api_cubit/assets/100823196/e394eb43-1b96-439e-abeb-3ec7f96a4cba)
 ![Samsung Galaxy S20 Screenshot 3](https://github.com/mohamedsber/e_commerce_app_api_cubit/assets/100823196/e867b76a-d339-426a-b3e7-ab36fb27ad32)
 ![Samsung Galaxy S20 Screenshot 4](https://github.com/mohamedsber/e_commerce_app_api_cubit/assets/100823196/2761984e-44b4-421c-a769-5aa20f6278be)
-![Samsung Galaxy S20 Screenshot 5](https://github.com/mohamedsber/e_commerce_app_api_cubit/assets/100823196/8eb8f842-e9f4-4094-b2b9-29139200c16e
+![Samsung Galaxy S20 Screenshot 5](https://github.com/mohamedsber/e_commerce_app_api_cubit/assets/100823196/8eb8f842-e9f4-4094-b2b9-29139200c16e)
 ![Samsung Galaxy S20 Screenshot 6](https://github.com/mohamedsber/e_commerce_app_api_cubit/assets/100823196/27000df1-f64c-455c-b91a-f1bcba15845e)
-)
 ![Samsung Galaxy S20 Screenshot 7](https://github.com/mohamedsber/e_commerce_app_api_cubit/assets/100823196/fbcf4021-6916-4745-842d-fd8f40610f38)
 ![Samsung Galaxy S20 Screenshot 8](https://github.com/mohamedsber/e_commerce_app_api_cubit/assets/100823196/585dd0b2-c25a-45a8-9545-543e5c173ef3)
 ![Samsung Galaxy S20 Screenshot 9](https://github.com/mohamedsber/e_commerce_app_api_cubit/assets/100823196/bad4a127-d20b-4ba4-beff-44437ac71453)
