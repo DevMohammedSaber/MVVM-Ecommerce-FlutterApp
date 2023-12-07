@@ -28,5 +28,6 @@ I developed a fully functioning e-commerce flutter application that is compatibl
 | ![Sign-in](https://github.com/mohamedsber/MVVM-Ecommerce-FlutterApp/assets/100823196/ff4b4781-72c2-4757-bb33-97c0a274485f) | ![Sign-up](https://github.com/mohamedsber/MVVM-Ecommerce-FlutterApp/assets/100823196/cdb3fc6a-291a-423f-adcb-b8a3f9b8221d) | ![Fofget_password](https://github.com/mohamedsber/MVVM-Ecommerce-FlutterApp/assets/100823196/8f595571-8f75-47f5-993d-608e91909107) |
 | Home_Screen | Favourite_Screen | Cart_Screen |
 | ![Home](https://github.com/mohamedsber/MVVM-Ecommerce-FlutterApp/assets/100823196/53d3f110-3b23-4aa6-974b-f692fb2e66b6) | ![Favourite](https://github.com/mohamedsber/MVVM-Ecommerce-FlutterApp/assets/100823196/c9d7e676-8eca-4e06-8ddc-b03360ff906d) | ![Cart](https://github.com/mohamedsber/MVVM-Ecommerce-FlutterApp/assets/100823196/fea2e4d3-726c-4853-a44f-c99cbdf5a935) |
-
+| Profile_Screen | Details_Screen | Category_Screen |
+| ![Profile](https://github.com/mohamedsber/MVVM-Ecommerce-FlutterApp/assets/100823196/cf3c5206-0229-4155-b630-522947a3ab44) | ![Details](https://github.com/mohamedsber/MVVM-Ecommerce-FlutterApp/assets/100823196/4a7dfd70-fd66-40e5-904d-fee99db68760) | ![Category](https://github.com/mohamedsber/MVVM-Ecommerce-FlutterApp/assets/100823196/30c88685-6f2b-497a-84d2-f25080961809) |
 
