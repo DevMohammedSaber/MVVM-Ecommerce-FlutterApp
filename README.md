@@ -19,7 +19,7 @@ I developed a fully functioning e-commerce flutter application that is compatibl
 
 ## Screenshots
 
-![App Screenshot](![Samsung Galaxy S20 Screenshot 0](https://github.com/mohamedsber/e_commerce_app_api_cubit/assets/100823196/ae843a2c-769f-4ed6-b7d6-c0b95e5bcc1b?raw=true))
+![App Screenshot](https://github.com/mohamedsber/e_commerce_app_api_cubit/assets/100823196/ae843a2c-769f-4ed6-b7d6-c0b95e5bcc1b)
 
 ![Samsung Galaxy S20 Screenshot 0](https://github.com/mohamedsber/e_commerce_app_api_cubit/assets/100823196/ae843a2c-769f-4ed6-b7d6-c0b95e5bcc1b?raw=true)
 ![Samsung Galaxy S20 Screenshot 1](https://github.com/mohamedsber/e_commerce_app_api_cubit/assets/100823196/ac87a6e0-900a-45a6-a1d7-39d0d526561f?raw=true)
