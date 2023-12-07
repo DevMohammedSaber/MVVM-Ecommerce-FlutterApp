@@ -2,6 +2,9 @@
 ## 🚀 About
 I'm a flutter developer...
 
+<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/ISL270/Flutter-E-commerce-App">
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/ISL270/Flutter-E-commerce-App">
+
 I developed a fully functioning e-commerce flutter application that is compatible with both iOS & Android. I built it with the MVVM ( Model-View-ViewModel ) architecture, and I used restful api Authentication to securely authenticate users, product details & users' data, and Cubit for state management.
 ## Features
 
