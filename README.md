@@ -31,3 +31,13 @@ I developed a fully functioning e-commerce flutter application that is compatibl
 | Profile_Screen | Details_Screen | Category_Screen |
 | ![Profile](https://github.com/mohamedsber/MVVM-Ecommerce-FlutterApp/assets/100823196/cf3c5206-0229-4155-b630-522947a3ab44) | ![Details](https://github.com/mohamedsber/MVVM-Ecommerce-FlutterApp/assets/100823196/4a7dfd70-fd66-40e5-904d-fee99db68760) | ![Category](https://github.com/mohamedsber/MVVM-Ecommerce-FlutterApp/assets/100823196/30c88685-6f2b-497a-84d2-f25080961809) |
 
+## Resources
+The following resources were used during the development of this project:
+- [**Dart documentation**](https://dart.dev/guides)
+- [**Flutter documentation**](https://flutter.dev/docs)
+- [**FlutterFire documentation**](https://firebase.flutter.dev/docs/overview)
+- [**Flutter Apprentice Book**](https://www.raywenderlich.com/books/flutter-apprentice/v2.0)
+- [**Stack Overflow: Flutter**](https://stackoverflow.com/questions/tagged/flutter)
+- [**Some UI inspirations**](https://github.com/abuanwar072/E-commerce-Complete-Flutter-UI)
+
+**Note:** I uploaded this project to github only to showcase my work and you cannot use it commercially by any means.
